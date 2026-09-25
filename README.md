@@ -94,35 +94,8 @@ I'm **Krrish Arora** — an AI/ML enthusiast and Data Science undergrad building
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
-<td align="center" width="50%">
-
-### ⚙️ Languages & Frameworks
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-### 🚀 Backend & APIs
-
-<br/>
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</td>
-<td align="center" width="50%">
 
 ### 🔧 Tools & Platforms
 
@@ -180,37 +153,6 @@ Built **AMSdbGPT** from scratch — a conversational AI chatbot that translates 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         EDUCATION                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎓 Education</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="80">🏫</td>
-<td><strong>JECRC University</strong> — B.Tech, Computer Science (AI/ML)</td>
-<td><code>2024 – 2028</code></td>
-</tr>
-<tr>
-<td align="center" width="80">🏛️</td>
-<td><strong>IIT Madras</strong> — BS, Data Science and Applications</td>
-<td><code>2024 – Present</code></td>
-</tr>
-<tr>
-<td align="center" width="80">🎒</td>
-<td><strong>Jayshree Periwal Global School</strong></td>
-<td><code>Completed</code></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              GITHUB STATS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
