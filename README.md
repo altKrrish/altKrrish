@@ -8,22 +8,26 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1f2e,50:6c3baa,70:c084fc,90:e879f9,100:f0abfc&height=220&section=header&text=Krrish%20Arora&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20Developer%20%7C%20Builder&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1f2e,50:6c3baa,70:c084fc,90:e879f9,100:f0abfc&height=220&section=header&text=Krrish%20Arora&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%40%20IIT%20Madras%20%7C%20VP%20%40%20XeTech%20Club&descSize=17&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%94%A5+Shipping+code+that+matters;%F0%9F%9A%80+FastAPI+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Data+Science;%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%A7%A0+Neural+Networks+%E2%80%A2+Machine+Learning+%E2%80%A2+AI+Enthusiast;%F0%9F%8F%86+AIR+8+%40+Smart+India+Hackathon+2025+%7C+Open+Innovator;%F0%9F%94%A5+Python+%E2%80%A2+SQL+%E2%80%A2+FastAPI+%E2%80%A2+Data+Science+%E2%80%A2+GenAI" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS & SOCIALS -->
 <br/>
 
+<!-- PROFILE VIEWS & SOCIALS -->
 <a href="https://github.com/altKrrish">
   <img src="https://komarev.com/ghpvc/?username=altKrrish&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/krrisharora9">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:krrish.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/altKrrish?tab=followers">
@@ -35,24 +39,40 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              ABOUT ME SECTION                               -->
+<!--                              ABOUT ME                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ## 🧑‍💻 &nbsp;About Me
 
-> *"Code is poetry written in logic."*
+> *"Turning data into decisions, and ideas into impact."*
 
-I'm **Krrish Arora** — a passionate developer who loves building backend systems, APIs, and data-driven tools. I specialize in **Python** and the **FastAPI** ecosystem, and I'm constantly exploring new technologies to solve real-world problems.
+I'm **Krrish Arora** — an AI/ML enthusiast and Data Science undergrad building intelligent systems that solve real-world problems. From crafting **AI chatbots** that query databases in plain English, to competing at the national level at **Smart India Hackathon**, I'm always shipping.
 
-- 🔭 &nbsp;Currently building **scalable backend services** & **API architectures**
-- 🌱 &nbsp;Diving deep into **Data Science**, **System Design** & **Cloud Infrastructure**
-- 🤖 &nbsp;Automating workflows with **Telegram Bots** & **monitoring services**
-- 🎵 &nbsp;Created **Melodia** — a music experience built with TypeScript
-- ⚡ &nbsp;Fun fact: I ship fast — *"vibe to ship"* is my motto
+- 🎓 &nbsp;**B.Tech CSE (AI/ML)** at **JECRC University**, Jaipur
+- 📊 &nbsp;**BS in Data Science** at **IIT Madras**
+- 🏛️ &nbsp;**Vice President** at **XeTech Club**
+- 🏆 &nbsp;**AIR 8** at **Smart India Hackathon 2025** (Prelims)
+- 🤖 &nbsp;Built **AMSdbGPT** — an AI data chatbot at **VGL Group** that translates plain English → SQL → live results
+- 🧠 &nbsp;Passionate about **Neural Networks**, **Unsupervised Learning** & **Generative AI**
+- ⚡ &nbsp;Quantum Computing enthusiast | Open Innovation advocate
 
 <br clear="right"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           ACHIEVEMENTS BANNER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+🏆 AIR 8 — Smart India Hackathon 2025     🎓 Dual Degree — JECRC + IIT Madras     🤖 Built AI Chatbot at VGL Group
+```
+
+</div>
 
 <br/>
 
@@ -68,47 +88,50 @@ I'm **Krrish Arora** — a passionate developer who loves building backend syste
 <tr>
 <td align="center" width="50%">
 
-### ⚙️ Languages & Frameworks
-  
+### 🧠 AI / ML / Data Science
+
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-7B68EE?style=for-the-badge&logo=apache-spark&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### 🚀 Backend & APIs
-  
+### ⚙️ Languages & Frameworks
+
 <br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 🧠 Data & Analytics
-  
+### 🚀 Backend & APIs
+
 <br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
 ### 🔧 Tools & Platforms
-  
+
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,6 +143,93 @@ I'm **Krrish Arora** — a passionate developer who loves building backend syste
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           EXPERIENCE                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100">
+<img src="https://img.shields.io/badge/VP-6c3baa?style=for-the-badge" alt="VP"/>
+</td>
+<td>
+
+**Vice President — XeTech Club** &nbsp; `Jul 2025 – Present`
+
+Leading the tech club, organizing events, hackathons, and fostering a community of innovators.
+
+</td>
+</tr>
+<tr>
+<td width="100">
+<img src="https://img.shields.io/badge/AI-e879f9?style=for-the-badge" alt="AI"/>
+</td>
+<td>
+
+**AI Intern — VGL Group** &nbsp; `Jun 2025 – Aug 2025` &nbsp; 📍 Jaipur
+
+Built **AMSdbGPT** from scratch — a conversational AI chatbot that translates plain English questions into SQL queries, autonomously connects to databases, and returns precise results. Eliminated technical barriers to data access across the team.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         EDUCATION                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="80">🏫</td>
+<td><strong>JECRC University</strong> — B.Tech, Computer Science (AI/ML)</td>
+<td><code>2024 – 2028</code></td>
+</tr>
+<tr>
+<td align="center" width="80">🏛️</td>
+<td><strong>IIT Madras</strong> — BS, Data Science and Applications</td>
+<td><code>2024 – Present</code></td>
+</tr>
+<tr>
+<td align="center" width="80">🎒</td>
+<td><strong>Jayshree Periwal Global School</strong></td>
+<td><code>Completed</code></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         CERTIFICATIONS                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📜 Certifications</h2>
+
+<div align="center">
+
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing_Fundamentals-0D1117?style=for-the-badge&logo=ibm&logoColor=white&labelColor=6929C4)
+![SIH'25](https://img.shields.io/badge/SIH'25_Prelims_—_AIR_8-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=9FEF00)
+![GenAI](https://img.shields.io/badge/From_Basics_to_GenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
+![Ecology](https://img.shields.io/badge/Fundamentals_of_Ecology-0D1117?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=199900)
+![Salesforce](https://img.shields.io/badge/Salesforce_Trailhead-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=00A1E0)
 
 </div>
 
@@ -158,8 +268,8 @@ I'm **Krrish Arora** — a passionate developer who loves building backend syste
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=fastapi-stats&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/altKrrish/fastapi-redis">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=fastapi-redis&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
+<a href="https://github.com/altKrrish/Team-Sentinels">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=Team-Sentinels&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
 </a>
 
 </div>
@@ -231,7 +341,7 @@ I'm **Krrish Arora** — a passionate developer who loves building backend syste
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                            SPOTIFY / QUOTE                                   -->
+<!--                            DEV QUOTE                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -258,15 +368,15 @@ I'm **Krrish Arora** — a passionate developer who loves building backend syste
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:krrisharora9@gmail.com" target="_blank">
+<a href="mailto:krrish.contact@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-```text
-💡 "The best error message is the one that never shows up."
-                                            — Thomas Fuchs
+```
+🧠 Sophomore building AI that thinks, learns, and ships.
+   JECRC University • IIT Madras • XeTech Club VP • SIH '25 AIR 8
 ```
 
 </div>
