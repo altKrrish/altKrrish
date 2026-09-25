@@ -50,9 +50,6 @@
 
 I'm **Krrish Arora** — an AI/ML enthusiast and Data Science undergrad building intelligent systems that solve real-world problems. From crafting **AI chatbots** that query databases in plain English, to competing at the national level at **Smart India Hackathon**, I'm always shipping.
 
-- 🎓 &nbsp;**B.Tech CSE (AI/ML)** at **JECRC University**, Jaipur
-- 📊 &nbsp;**BS in Data Science** at **IIT Madras**
-- 🏛️ &nbsp;**Vice President** at **XeTech Club**
 - 🏆 &nbsp;**AIR 8** at **Smart India Hackathon 2025** (Prelims)
 - 🤖 &nbsp;Built **AMSdbGPT** — an AI data chatbot at **VGL Group** that translates plain English → SQL → live results
 - 🧠 &nbsp;Passionate about **Neural Networks**, **Unsupervised Learning** & **Generative AI**
@@ -67,9 +64,6 @@ I'm **Krrish Arora** — an AI/ML enthusiast and Data Science undergrad building
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-🏆 AIR 8 — Smart India Hackathon 2025     🎓 Dual Degree — JECRC + IIT Madras     🤖 Built AI Chatbot at VGL Group
 ```
 
 </div>
@@ -218,65 +212,6 @@ Built **AMSdbGPT** from scratch — a conversational AI chatbot that translates 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         CERTIFICATIONS                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📜 Certifications</h2>
-
-<div align="center">
-
-![Quantum Computing](https://img.shields.io/badge/Quantum_Computing_Fundamentals-0D1117?style=for-the-badge&logo=ibm&logoColor=white&labelColor=6929C4)
-![SIH'25](https://img.shields.io/badge/SIH'25_Prelims_—_AIR_8-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=9FEF00)
-![GenAI](https://img.shields.io/badge/From_Basics_to_GenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
-![Ecology](https://img.shields.io/badge/Fundamentals_of_Ecology-0D1117?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=199900)
-![Salesforce](https://img.shields.io/badge/Salesforce_Trailhead-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=00A1E0)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           FEATURED PROJECTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Featured Projects</h2>
-
-<div align="center">
-<br/>
-
-<a href="https://github.com/altKrrish/Melodia">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=Melodia&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/altKrrish/TelegramBot">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=TelegramBot&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/altKrrish/tds-ga7-release-gate">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=tds-ga7-release-gate&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/altKrrish/SearchTermAnalyzer">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=SearchTermAnalyzer&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/altKrrish/fastapi-stats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=fastapi-stats&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/altKrrish/Team-Sentinels">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=altKrrish&repo=Team-Sentinels&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=e879f9&text_color=a9b1d6" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              GITHUB STATS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -327,20 +262,6 @@ Built **AMSdbGPT** from scratch — a conversational AI chatbot that translates 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                            TROPHY SECTION                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=altKrrish&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                            DEV QUOTE                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -373,12 +294,6 @@ Built **AMSdbGPT** from scratch — a conversational AI chatbot that translates 
 </a>
 
 <br/><br/>
-
-```
-🧠 Sophomore building AI that thinks, learns, and ships.
-   JECRC University • IIT Madras • XeTech Club VP • SIH '25 AIR 8
-```
-
 </div>
 
 <br/>
